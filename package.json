@@ -1,0 +1,17 @@
+{
+  "name": "prerender-server",
+  "version": "1.0.0",
+  "description": "Prerender server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "prerender": "^5.5.1",
+    "prerender-memory-cache": "^1.0.2"
+  }
+}
+
